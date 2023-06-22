@@ -1,11 +1,11 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Кирилл Гольцер](https://up.htmlacademy.ru/javascript/29/user/2266027).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Мошкин](https://htmlacademy.ru/profile/id2088751)
 
 ---
 
-_Не удаляйте и не изменяйте самовольно файлы и папки:_
+_Не удаляйте и не изменяйте самовольно файлы и папки :_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
 
 ---
